@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohini Gupta</h1>
-<h3 align="center">🚀 Final-year CSE student | Frontend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">🚀 CSE (AI & ML) Graduate | Frontend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Love+building+UI+experiences;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
@@ -9,10 +9,10 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a final-year Computer Science student (CSE - AI & ML) at VIT Bhopal  
-💻 A passionate frontend developer with hands-on experience in building responsive and interactive web applications  
+🎓 I'm a Computer Science graduate (CSE - AI & ML) from VIT Bhopal (CGPA: 8.37/10)  
+💻 A passionate frontend developer with MERN Full Stack internship experience  
 🧠 I enjoy exploring AI/ML technologies and integrating them into real-world projects  
-🌱 Currently learning **TypeScript** and diving deeper into **Machine Learning**
+📊 Currently working as a Research Operations Analyst at Green Publication Services Pvt. Ltd.
 
 ---
 
@@ -29,8 +29,6 @@
 </p>
 
 ---
-
-
 
 ## 🏅 Badges & Certifications
 
