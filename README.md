@@ -9,11 +9,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a Computer Science graduate (CSE - AI & ML) from VIT Bhopal  
-💻 A passionate frontend developer with hands-on experience in building responsive and interactive web applications  
-🧠 I enjoy exploring AI/ML technologies and integrating them into real-world projects  
-📊 Currently working as a Research Operations Analyst at Green Publication Services Pvt. Ltd.  
-🌱 Currently learning TypeScript and diving deeper into Machine Learning  
+- 🎓 I'm a Computer Science graduate (CSE - AI & ML) from VIT Bhopal  
+- 💻 A passionate frontend developer with hands-on experience in building responsive and interactive web applications  
+- 🧠 I enjoy exploring AI/ML technologies and integrating them into real-world projects  
+- 📊 Working as a Research Operations Analyst at Green Publication Services Pvt. Ltd.  
+- 🌱 Learning TypeScript and diving deeper into Machine Learning  
 
 ---
 
